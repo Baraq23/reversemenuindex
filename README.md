@@ -13,7 +13,7 @@ go run main.go
 _Output_
 
 ```bash
-[starters drinks mains desserts]
+["starters" "drinks" "mains" "desserts"]
 ```
 
 ### Notion
